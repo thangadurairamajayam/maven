@@ -2,5 +2,12 @@ hai
 hw are you
 i am scary
 this is upto maven
+<<<<<<< HEAD
 hey
 manager
+=======
+
+
+powder
+pipe
+>>>>>>> e961f5a575c2689c5d542987675c43aca580de36
